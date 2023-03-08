@@ -1,6 +1,7 @@
 # Python
  
- Exercicio 1: Faça o olá mundo de lei
+ Exercicio 1: Faça o olá mundo de lei<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex001.py)<br>
 
  Exercicio 2: Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
