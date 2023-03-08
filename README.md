@@ -8,6 +8,8 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - Não copie código (digitar é mais eficiente para o aprendizado do que Ctrl + C e Ctrl + V);
 - Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
  
+ ## Exercícios
+ 
  Exercicio 1: Faça o olá mundo de lei<br>
 [Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex001.py)<br>
 
