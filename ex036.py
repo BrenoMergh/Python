@@ -4,7 +4,7 @@ anos = int(input('Digite em quantos anos pretende pagar a casa: '))
 
 prest = casa / (anos*12)
 
-if prest > (salario - (salario*0.7)):
+if prest > (salario * 0.3):
     print('\033[1;30;41mEmpréstimo NEGADO!!!\033[m')
 else:
     print('\033[1;30;42mEmpréstimo APROVADO!!!\033[m')

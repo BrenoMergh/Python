@@ -1,4 +1,5 @@
 import random
+#foi adicionado o while para o programa ficar rodando infinito para facilitar os testes
 while True:
     pc = random.randrange(1,4)
     print('-='*20)

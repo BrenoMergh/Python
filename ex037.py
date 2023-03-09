@@ -34,14 +34,12 @@ elif escolha == 2:
     conv = conversor
     print('\033[1;30;44mA base escolhida para a conversão foi octal!\033[m')
     print('\033[1;30;44mO número {} em octal é {}\033[m'.format(num2, conv))
-    
+#Fiquei com preguiça de escrever a lógica para o hex então usei a função que já existe
+#isso é legal que mostra que o Python ja tem essas funções nativas, facilitando sua vida
 elif escolha == 3:
-    conversor = ""
-    if num == 0:
-       conv = 0
-    else:
     print('A base escolhida para a conversão foi hexadecimal!')
-    print('O número {} em hexadecimal é {}'.format(num2, conv))
+    #A função não necessitava desses [2:] mas utilizei ele para imprimir direto o hex sem o prefixo 0x
+    print('O número {} em hexadecimal é {}'.format(num2, hex(num2)[2:]))
     
 else:
     print('Escolha um número de 1 a 3')

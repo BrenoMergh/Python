@@ -1,7 +1,7 @@
-from datetime import datetime
+from datetime import date
 nasc = int(input('Digite seu ano de nascimento: '))
 
-idade = datetime.now().year - nasc
+idade = date.today().year - nasc
 
 if idade <= 9:
     print('\033[1;30;42mCATEGORIA MIRIM!\033[m')

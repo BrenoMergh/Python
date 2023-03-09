@@ -3,6 +3,7 @@ altura = float(input('Digite sua altura em metros:'))
 
 imc = peso / (altura * altura)
 
+print('\033[1;30;46mSeu IMC é {:.1f}\033[m'.format(imc))
 if imc < 18.5:
     print('\033[1;30;44mABAIXO DO PESO!\033[m')
 elif 18.5 <= imc <= 25:
