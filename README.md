@@ -133,3 +133,42 @@ Exercicio 38: Escreva um programa que leia dois números inteiros e compare-os. 
 Exercicio 39: Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.<br>
 [Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex039.py)<br>
 
+Exercicio 40: Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+    – Média abaixo de 5.0: REPROVADO
+    – Média entre 5.0 e 6.9: RECUPERAÇÃO
+    – Média 7.0 ou superior: APROVADO<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex040.py)<br>
+
+Exercicio 41:  A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+    – Até 9 anos: MIRIM
+    – Até 14 anos: INFANTIL
+    – Até 19 anos: JÚNIOR
+    – Até 25 anos: SÊNIOR
+    – Acima de 25 anos: MASTER<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex041.py)<br>
+
+Exercicio 42: Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+    – EQUILÁTERO: todos os lados iguais
+    – ISÓSCELES: dois lados iguais, um diferente
+    – ESCALENO: todos os lados diferentes<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex042.py)<br>
+
+Eercicio 43: Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+    – IMC abaixo de 18,5: Abaixo do Peso
+    – Entre 18,5 e 25: Peso Ideal
+    – 25 até 30: Sobrepeso
+    – 30 até 40: Obesidade
+    – Acima de 40: Obesidade Mórbida<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex043.py)<br>
+
+Exercicio 44: Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+    – à vista dinheiro/cheque: 10% de desconto
+    – à vista no cartão: 5% de desconto
+    – em até 2x no cartão: preço formal 
+    – 3x ou mais no cartão: 20% de juros<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex044.py)<br>
+
+Exercicio 45: Crie um programa que faça o computador jogar Jokenpô com você.<br>
+[Solução proposta](https://github.com/BrenoMergh/Python/blob/main/ex045.py)<br>
+
+Exercicio 46: 
