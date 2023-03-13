@@ -1,8 +1,5 @@
-from numpy import void
 soma = 0
-for i in range(3, 500, 3):
-    if i % 2 == 0:
-        void
-    else:
+for i in range(1, 501, 2):
+    if i % 3 == 0:
         soma += i
 print(soma)
